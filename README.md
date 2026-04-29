@@ -1,7 +1,7 @@
 # opencode-theme
 
-This repository contains custom theme configuration files for OpenCode.
+This repository contains custom theme configuration files for Ghostty and gh-dash.
 
 ## Shirotelin Theme
 
-This json config file can be added to the home dir under ~/.config/opencode/themes/shirotelin.json
+The Shirotellin theme is not available for ghostty so I created my own AI slop copy
