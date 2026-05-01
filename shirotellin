@@ -1,0 +1,33 @@
+# Shirotelin — light theme for Ghostty
+# Based on the Shirotelin colorscheme by yasukotelin
+#   https://github.com/yasukotelin/shirotelin
+#   https://github.com/yasukotelin/shirotelin-intellij
+
+background = #ffffff
+foreground = #000000
+
+cursor-color = #000000
+cursor-text  = #ffffff
+
+selection-background = #cde8ff
+selection-foreground = #000000
+
+# ANSI 0-7 (normal)
+palette = 0=#000000
+palette = 1=#ff0000
+palette = 2=#005f00
+palette = 3=#87005f
+palette = 4=#00005f
+palette = 5=#af00af
+palette = 6=#005f5f
+palette = 7=#c0c0c0
+
+# ANSI 8-15 (bright)
+palette = 8=#545454
+palette = 9=#ff5f5f
+palette = 10=#5f8700
+palette = 11=#cfcca3
+palette = 12=#0000af
+palette = 13=#ff7fff
+palette = 14=#008787
+palette = 15=#ffffff
